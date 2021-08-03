@@ -1,0 +1,10 @@
+ÿJerarquía de grupos,Región,Descripción,Servicio,Inicial,Mensual,Total de los primeros 12 meses,Divisa,Resumen de configuración
+My Estimate,US East (N. Virginia),,Amazon EC2,0,140.275,1683.30,USD,"Sistema operativo (Red Hat Enterprise Linux), Cantidad de almacenamiento (500 GB), DT Entrada: Internet (180 GB al mes), DT Salida: US East (Ohio) (180 GB al mes), DT Intra-región: (180 GB al mes), Workload (Consistent, Number of instances: 1), Frecuencia de instantáneas (2 veces al día), Cantidad cambiada por instantánea (4 GB), Instancia EC2 por adelantado (x2gd.medium), Pricing strategy (EC2 Instance Savings Plans 1 Year  None upfront)"
+My Estimate,US East (N. Virginia),,Amazon EC2,0,177.87,2134.44,USD,"Sistema operativo (Windows Server), Cantidad de almacenamiento (500 GB), DT Entrada: All other regions (180 GB al mes), DT Salida: US East (Ohio) (180 GB al mes), DT Intra-región: (180 GB al mes), Workload (Consistent, Number of instances: 1), Frecuencia de instantáneas (2 veces al día), Cantidad cambiada por instantánea (4 GB), Instancia EC2 por adelantado (m5d.large), Pricing strategy (EC2 Instance Savings Plans 1 Year  None upfront)"
+My Estimate,US East (N. Virginia),,Amazon Elastic IP,0,102.6,1231.20,USD,"Número de remapeos de EIP (4), Número de EIP por instancia (4), Cantidad de instancias EC2 (4)"
+My Estimate,US East (N. Virginia),,Amazon Elastic Block Store (EBS),0,491.52,5898.24,USD,"Número de instancias (1), Duración promedio de la ejecución de cada instancia (730 horas al mes), Cantidad de almacenamiento (4 TB), Frecuencia de instantáneas (Mensual), Cantidad cambiada por instantánea (4 TB)"
+
+
+
+Reconocimiento
+"* La Calculadora de precios de AWS proporciona únicamente una estimación de sus tarifas de AWS y no incluye los impuestos que puedan aplicarse. El valor real de sus tarifas depende de una serie de factores, entre los que se incluye su uso real de AWS."
